@@ -45,3 +45,14 @@ Legend: 🟩 Learn, 🟨 Docs, 🟧 Library, 🟪 Tool.
 **Monochrome icons** allow web developers to specify a single color icon that will be filled in by the user-agent to match other icons on the device. On Android, this lets developers customize notifications and other areas where their icon appears with no color.
 
 * 🟪 [**Monochrome.fyi**](https://monochrome.fyi/) Tool: preview your monochrome icons before adding them to your web app manifest.
+
+
+### Version control
+
+Version control (or source code management) is a class of systems responsible for managing **changes** to computer programs, documents, large web sites, or other collections of information.
+* 🟩🟨 [**Semantic versioning \[semver.org\]**](https://semver.org/): a simple set of rules and requirements that dictate how version numbers are assigned and incremented.
+
+
+#### Git
+
+Git is free and open source software for **distributed version control** that tracks changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
