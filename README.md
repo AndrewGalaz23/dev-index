@@ -64,6 +64,13 @@ A **regular expression** (shortened as **regex** or **regexp**) is a sequence of
 ### Security
 
 
+#### OAuth
+
+The OAuth 2.0 **authorization framework** enables a third-party application to obtain limited access to an **HTTP** service, either on behalf of a resource owner or by allowing the third-party application to obtain access on its own behalf.
+
+* 🟩🟨 [**RFC 6749 \[IETF\]**](https://datatracker.ietf.org/doc/html/rfc6749).
+
+
 #### JSON Web Token (JWT)
 
 JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a **JSON object** that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.
