@@ -79,3 +79,13 @@ The **HyperText Markup Language** or **HTML** is the standard markup language fo
 * 🟩 [**Learn Forms \[web.dev\]**](https://web.dev/learn/forms/): a course about HTML forms to help you improve your web developer expertise.
 * 🟩 [**HTML Tutorial \[w3schools\]**](https://www.w3schools.com/html/default.asp).
 * 🟪 [**Online HTML Escape/Unescape Tool \[FreeFormatter\]**](https://www.freeformatter.com/html-escape.html): an online tool to escape and unescape HTML strings.
+
+
+### Markdown
+
+**Markdown** is a lightweight markup language for creating formatted text using a plain-text editor.
+
+* 🟩 [**Getting started \[Markdown Guide\]**](https://www.markdownguide.org/getting-started/): an overview of Markdown, how it works, and what you can do with it.
+* 🟨 [**Markdown Cheat Sheet \[Markdown Guide\]**](https://www.markdownguide.org/cheat-sheet/).
+* 🟧 [**markedjs/marked \[GitHub\]**](https://github.com/markedjs/marked) Library: a markdown parser and compiler.
+* 🟪 [**Markdown Preview Github \[Visual Studio Marketplace\]**](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview): Visual Studio Code extension that changes VS Code's built-in markdown rendering in style and content.
