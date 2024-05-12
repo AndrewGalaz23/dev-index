@@ -61,6 +61,17 @@ A **regular expression** (shortened as **regex** or **regexp**) is a sequence of
 * 🟩 [**Learn Regex: A Beginner's Guide \[SitePoint\]**](https://www.sitepoint.com/learn-regex/): a beginner’s guide to regex.
 
 
+### Security
+
+
+#### JSON Web Token (JWT)
+
+JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a **JSON object** that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.
+
+* 🟩🟨 [**RFC 7519 \[IETF\]**](https://datatracker.ietf.org/doc/html/rfc7519).
+* 🟪 [**JWT.io**](https://jwt.io/): allows you to decode, verify and generate JWT.
+
+
 ### Version control
 
 Version control (or source code management) is a class of systems responsible for managing **changes** to computer programs, documents, large web sites, or other collections of information.
