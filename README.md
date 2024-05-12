@@ -56,3 +56,15 @@ Version control (or source code management) is a class of systems responsible fo
 #### Git
 
 Git is free and open source software for **distributed version control** that tracks changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+
+
+## Languages
+
+
+### CSS
+
+**Cascading Style Sheets** (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).
+* 🟩 [**Learn CSS \[web.dev\]**](https://web.dev/learn/css/).
+* 🟩 [**Learn to style HTML using CSS \[MDN\]**](https://developer.mozilla.org/en-US/docs/Learn/CSS).
+* 🟪 [**JS & CSS Minifier \[Visual Studio Marketplace\]**](https://marketplace.visualstudio.com/items?itemName=olback.es6-css-minify): Visual Studio Code extension that minifies CSS files on save and more.
+* 🟪 [**CSS Minifier & Compressor \[Toptal\]**](https://www.toptal.com/developers/cssminifier): an online CSS minifier tool and compressor, with fast and simple API Access.
