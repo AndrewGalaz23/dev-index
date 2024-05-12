@@ -68,3 +68,14 @@ Git is free and open source software for **distributed version control** that tr
 * 🟩 [**Learn to style HTML using CSS \[MDN\]**](https://developer.mozilla.org/en-US/docs/Learn/CSS).
 * 🟪 [**JS & CSS Minifier \[Visual Studio Marketplace\]**](https://marketplace.visualstudio.com/items?itemName=olback.es6-css-minify): Visual Studio Code extension that minifies CSS files on save and more.
 * 🟪 [**CSS Minifier & Compressor \[Toptal\]**](https://www.toptal.com/developers/cssminifier): an online CSS minifier tool and compressor, with fast and simple API Access.
+
+
+### HTML
+
+The **HyperText Markup Language** or **HTML** is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (**CSS**) and scripting languages such as **JavaScript**.
+
+* 🟩 [**Structuring the web with HTML \[MDN\]**](https://developer.mozilla.org/docs/Learn/HTML).
+* 🟩 [**Learn HTML \[web.dev\]**](https://web.dev/learn/html/): an HTML course for web developers that provides a solid overview for developers, from novice to expert level HTML.
+* 🟩 [**Learn Forms \[web.dev\]**](https://web.dev/learn/forms/): a course about HTML forms to help you improve your web developer expertise.
+* 🟩 [**HTML Tutorial \[w3schools\]**](https://www.w3schools.com/html/default.asp).
+* 🟪 [**Online HTML Escape/Unescape Tool \[FreeFormatter\]**](https://www.freeformatter.com/html-escape.html): an online tool to escape and unescape HTML strings.
