@@ -89,3 +89,16 @@ The **HyperText Markup Language** or **HTML** is the standard markup language fo
 * 🟨 [**Markdown Cheat Sheet \[Markdown Guide\]**](https://www.markdownguide.org/cheat-sheet/).
 * 🟧 [**markedjs/marked \[GitHub\]**](https://github.com/markedjs/marked) Library: a markdown parser and compiler.
 * 🟪 [**Markdown Preview Github \[Visual Studio Marketplace\]**](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview): Visual Studio Code extension that changes VS Code's built-in markdown rendering in style and content.
+
+
+### PL/SQL
+
+**PL/SQL** (Procedural Language for SQL) is Oracle Corporation's procedural extension for **SQL** and the Oracle relational **database**.
+
+* 🟨🟧 [**Oracle APEX API \[Oracle\]**](https://apex.oracle.com/api): PL/SQL API for speed up the development in Oracle APEX.
+  * 🟩🟨 [**APEX_JSON package \[Oracle Base\]**](https://oracle-base.com/articles/misc/apex_json-package-generate-and-parse-json-documents-in-oracle): generate and parse JSON documents.
+
+
+### SQL
+
+**SQL** (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational **database** management system (RDBMS).
