@@ -91,6 +91,14 @@ The **HyperText Markup Language** or **HTML** is the standard markup language fo
 * 🟪 [**Markdown Preview Github \[Visual Studio Marketplace\]**](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview): Visual Studio Code extension that changes VS Code's built-in markdown rendering in style and content.
 
 
+### PHP
+
+A popular general-purpose scripting language that is especially suited to web development.
+
+* 🟩🟨 [**PHP Tutorial \[w3schools.com\]**](https://www.w3schools.com/php/).
+* 🟩🟨 [**PDO (PHP Data Objects) \[php.net\]**](https://www.php.net/manual/en/book.pdo.php): extension that defines an interface for accessing databases.
+
+
 ### PL/SQL
 
 **PL/SQL** (Procedural Language for SQL) is Oracle Corporation's procedural extension for **SQL** and the Oracle relational **database**.
