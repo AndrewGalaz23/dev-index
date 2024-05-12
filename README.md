@@ -21,3 +21,27 @@ Legend: 🟩 Learn, 🟨 Docs, 🟧 Library, 🟪 Tool.
 ### File tools
 
 * 🟪 [**CloudConvert**](https://cloudconvert.com/): an online file converter that supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.
+
+
+## Learn
+
+### Design
+
+* 🟩 [**Learn Responsive Design \[web.dev\]**](https://web.dev/learn/design/): a course exploring all aspects of responsive design.
+* 🟧 [**Materialize**](http://materializecss.com/): a modern responsive front-end framework based on Material Design.
+
+#### Icons
+
+* 🟧 [**Material Symbols and Icons \[Google Fonts\]**](https://fonts.google.com/icons).
+* 🟧 [**Font Awesome**](https://fontawesome.com/).
+* 🟧🟪 [**Material Design Icons**](https://materialdesignicons.com/).
+
+**Maskable icons** are app icons that adapt to platforms.
+
+* 🟩 [**Adaptive icon support in PWAs with maskable icons \[web.dev\]**](https://web.dev/maskable-icon/).
+* 🟪 [**Maskable.app**](https://maskable.app/): preview your maskable PWA icons before adding them to your web app manifest.
+* 🟩 [**Maskable Icons: Android Adaptive Icons for Your PWA \[CSS-Tricks\]**](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/).
+
+**Monochrome icons** allow web developers to specify a single color icon that will be filled in by the user-agent to match other icons on the device. On Android, this lets developers customize notifications and other areas where their icon appears with no color.
+
+* 🟪 [**Monochrome.fyi**](https://monochrome.fyi/) Tool: preview your monochrome icons before adding them to your web app manifest.
