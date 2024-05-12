@@ -25,6 +25,18 @@ Legend: 🟩 Learn, 🟨 Docs, 🟧 Library, 🟪 Tool.
 
 ## Learn
 
+
+### Data structures
+
+
+#### B-trees
+
+B-trees are a popular data structure for storing large amounts of data, frequently seen in databases and file systems.
+
+* 🟩 [**Understanding B-Trees \[Spanning Tree\]**](https://youtu.be/K1a2Bk8NrYQ?si=wbJJBPGX0aHuHpPu).
+* 🟩 [**B-tree \[Wikipedia\]**](https://en.wikipedia.org/wiki/B-tree).
+
+
 ### Design
 
 * 🟩 [**Learn Responsive Design \[web.dev\]**](https://web.dev/learn/design/): a course exploring all aspects of responsive design.
