@@ -47,6 +47,20 @@ Legend: 🟩 Learn, 🟨 Docs, 🟧 Library, 🟪 Tool.
 * 🟪 [**Monochrome.fyi**](https://monochrome.fyi/) Tool: preview your monochrome icons before adding them to your web app manifest.
 
 
+### Regex
+
+A **regular expression** (shortened as **regex** or **regexp**) is a sequence of characters that specifies a search _pattern_ in **text**. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
+
+* 🟪 [**Regex101**](https://regex101.com/): a regex tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET.
+* 🟩 [**Regular expressions in JavaScript \[MDN\]**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions): a complete guide to using regex in JavaScript.
+* 🟨 [**Regular expression syntax cheatsheet - JavaScript \[MDN\]**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet): an overall cheat sheet of all the capabilities of RegExp syntax.
+* 🟨 [**JavaScript RegExp Reference \[w3schools\]**](https://www.w3schools.com/Jsref/jsref_obj_regexp.asp): a guide to using regex in JavaScript.
+* 🟨 [**PHP Regular Expressions \[w3schools\]**](https://www.w3schools.com/php/php_regex.asp): a guide to using regex in PHP.
+* 🟪 [**RegExr**](https://regexr.com/): a regex tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.
+* 🟩🟪 [**Regex Learn \[regexlearn.com\]**](https://regexlearn.com/): interactive tutorials, cheatsheet, & playground.
+* 🟩 [**Learn Regex: A Beginner's Guide \[SitePoint\]**](https://www.sitepoint.com/learn-regex/): a beginner’s guide to regex.
+
+
 ### Version control
 
 Version control (or source code management) is a class of systems responsible for managing **changes** to computer programs, documents, large web sites, or other collections of information.
