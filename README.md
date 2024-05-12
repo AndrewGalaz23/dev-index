@@ -90,6 +90,17 @@ Version control (or source code management) is a class of systems responsible fo
 Git is free and open source software for **distributed version control** that tracks changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 
+### Web development
+
+
+#### Progressive Web Applications (PWAs)
+
+**Progressive Web Apps** are web applications that have been designed to be capable, reliable, and installable. These three pillars transform them into an experience that feels like a platform-specific application.
+
+* 🟩 [**Learn PWA \[web.dev\]**](https://web.dev/learn/pwa/): a course that breaks down every aspect of modern progressive web app development.
+* 🟩 [**Progressive Web Apps \[web.dev\]**](https://web.dev/progressive-web-apps/): a collection that lets you learn what makes a Progressive Web App special and how to build one.
+
+
 ## Languages
 
 
