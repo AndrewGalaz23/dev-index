@@ -26,6 +26,11 @@ Legend: 🟩 Learn, 🟨 Docs, 🟧 Library, 🟪 Tool.
 ## Learn
 
 
+### APIs
+
+* 🟩 [**OpenAPI Documentation**](https://learn.openapis.org/): guide directed at HTTP-based API designers and writers wishing to benefit from having their API formalized in an OpenAPI Description (OAD).
+
+
 ### Data structures
 
 
