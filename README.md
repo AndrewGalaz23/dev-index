@@ -141,6 +141,17 @@ The **HyperText Markup Language** or **HTML** is the standard markup language fo
 * 🟪 [**Online HTML Escape/Unescape Tool \[FreeFormatter\]**](https://www.freeformatter.com/html-escape.html): an online tool to escape and unescape HTML strings.
 
 
+### JSON
+
+JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax.
+It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa).
+
+* 🟩 [**Working with JSON \[MDN\]**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON): a guide to understand how to work with data stored in JSON.
+* 🟪 [**JSON online validator and formatter \[JSON Lint\]**](https://jsonlint.com/): a validator and reformatter for JSON.
+* 🟪 [**JSON Editor Online**](https://jsoneditoronline.org/): a versatile, high quality tool to edit and process your JSON data.
+* 🟩🟨 [**APEX_JSON package \[Oracle Base\]**](https://oracle-base.com/articles/misc/apex_json-package-generate-and-parse-json-documents-in-oracle): generate and parse JSON documents in **PL/SQL**.
+
+
 ### Markdown
 
 **Markdown** is a lightweight markup language for creating formatted text using a plain-text editor.
@@ -164,7 +175,6 @@ A popular general-purpose scripting language that is especially suited to web de
 **PL/SQL** (Procedural Language for SQL) is Oracle Corporation's procedural extension for **SQL** and the Oracle relational **database**.
 
 * 🟨🟧 [**Oracle APEX API \[Oracle\]**](https://apex.oracle.com/api): PL/SQL API for speed up the development in Oracle APEX.
-  * 🟩🟨 [**APEX_JSON package \[Oracle Base\]**](https://oracle-base.com/articles/misc/apex_json-package-generate-and-parse-json-documents-in-oracle): generate and parse JSON documents.
 
 
 ### SQL
