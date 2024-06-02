@@ -42,6 +42,13 @@ B-trees are a popular data structure for storing large amounts of data, frequent
 * 🟩 [**B-tree \[Wikipedia\]**](https://en.wikipedia.org/wiki/B-tree).
 
 
+### Database
+
+A database is an organized collection of data or a type of data store based on the use of a database management system (**DBMS**), the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS additionally encompasses the core facilities provided to administer the database. [Read more](https://en.wikipedia.org/wiki/Database)
+
+* 🟨🟧 [MariaDB](https://mariadb.com/kb/en/documentation/): one of the most popular open source relational databases.
+
+
 ### Design
 
 * 🟩 [**Learn Responsive Design \[web.dev\]**](https://web.dev/learn/design/): a course exploring all aspects of responsive design.
