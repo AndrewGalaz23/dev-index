@@ -116,6 +116,17 @@ Git is free and open source software for **distributed version control** that tr
 
 ### Web development
 
+* 🟩 [**Learn web development [MDN]**](https://developer.mozilla.org/en-US/docs/Learn): a guide for complete beginners to web development.
+* 🟩 [**Web developer guides [MDN]**](https://developer.mozilla.org/en-US/docs/Web/Guide): a collection of useful guides for web developers.
+  * 🟩 [**Ajax**](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX): fetching data from the server.
+* 🟨 [**Web APIs [MDN]**](https://developer.mozilla.org/en-US/docs/Web/API): a collection of APIs and interfaces (object types) available on the web, typically used with JavaScript (although this doesn't always have to be the case).
+  * 🟩🟨 [**Console**](https://developer.mozilla.org/en-US/docs/Web/API/Console): access to the browser's debugging console.
+  * 🟨 [**Element.insertAdjacentHTML()**](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML): method of the Element interface that parses the specified text as HTML or XML and inserts the resulting nodes into the DOM tree at a specified position.
+  * 🟩🟨 [**HTMLElement.dataset**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset): a read-only property of the HTMLElement interface that provides read/write access to custom data attributes (data-*) on elements.
+  * 🟩🟨 [**Window.postMessage()**](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage): method that safely enables cross-origin communication between Window objects; e.g., between a page and a pop-up that it spawned, or between a page and an iframe embedded within it.
+* 🟪 [**CanIUse**](https://caniuse.com/): up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+* 🟨 [**The Open Graph protocol**](https://ogp.me/): enable any web page to become a rich object in a social graph.
+* 🟪 [**PageSpeed Insights [web.dev]**](https://pagespeed.web.dev/): PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
 
 #### Progressive Web Applications (PWAs)
 
