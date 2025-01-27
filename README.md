@@ -92,7 +92,8 @@ A **regular expression** (shortened as **regex** or **regexp**) is a sequence of
 
 The OAuth 2.0 **authorization framework** enables a third-party application to obtain limited access to an **HTTP** service, either on behalf of a resource owner or by allowing the third-party application to obtain access on its own behalf.
 
-* 🟩🟨 [**RFC 6749 \[IETF\]**](https://datatracker.ietf.org/doc/html/rfc6749).
+* 🟩🟨 [**RFC 6749 \[IETF\]**](https://datatracker.ietf.org/doc/html/rfc6749): The OAuth 2.0 Authorization Framework.
+* 🟩🟨 [**RFC 8628 \[IETF\]**](https://datatracker.ietf.org/doc/html/rfc8628): OAuth 2.0 Device Authorization Grant.
 
 
 #### JSON Web Token (JWT)
