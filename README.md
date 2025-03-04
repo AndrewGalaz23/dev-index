@@ -128,6 +128,7 @@ Git is free and open source software for **distributed version control** that tr
 * 🟪 [**CanIUse**](https://caniuse.com/): up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * 🟨 [**The Open Graph protocol**](https://ogp.me/): enable any web page to become a rich object in a social graph.
 * 🟪 [**PageSpeed Insights [web.dev]**](https://pagespeed.web.dev/): PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
+* 🟪 [**SSL Labs**](https://www.ssllabs.com): a collection of documents, tools and thoughts related to SSL.
 
 #### Progressive Web Applications (PWAs)
 
